@@ -1,0 +1,14 @@
+$color-lletra: #005500;
+$color-paragraf: #113355;
+$font-lletra: 10px;
+$font-titol: 30px;
+
+body{
+    font-size: $font-lletra;
+    color: $color-paragraf;
+}
+
+h1{
+    color: $color-lletra;
+    font-size: $font-titol;
+}
